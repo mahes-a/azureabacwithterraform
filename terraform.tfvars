@@ -1,0 +1,8 @@
+rg_name_1 = "iacresourcegroup"
+region_1  = "eastus"
+tag_environment = "terraform testing"
+tag_createdby = "mahesh"
+tag_createdwith = "Terraform"
+storageAccountName = "iacteststorageaccount"
+blobContainer = "copper"
+asigneeName = "marunachalam"
